@@ -1,0 +1,10 @@
+D:\New\Web-reports\WebReport\bin\Debug\WebReport.exe.config
+D:\New\Web-reports\WebReport\bin\Debug\WebReport.exe
+D:\New\Web-reports\WebReport\bin\Debug\WebReport.pdb
+D:\New\Web-reports\WebReport\obj\Debug\WebReport.csprojResolveAssemblyReference.cache
+D:\New\Web-reports\WebReport\obj\Debug\WebReport.Form1.resources
+D:\New\Web-reports\WebReport\obj\Debug\WebReport.Properties.Resources.resources
+D:\New\Web-reports\WebReport\obj\Debug\WebReport.csproj.GenerateResource.Cache
+D:\New\Web-reports\WebReport\obj\Debug\WebReport.csproj.CoreCompileInputs.cache
+D:\New\Web-reports\WebReport\obj\Debug\WebReport.exe
+D:\New\Web-reports\WebReport\obj\Debug\WebReport.pdb
